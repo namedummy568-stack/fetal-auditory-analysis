@@ -1,0 +1,2 @@
+def calculate_frequency_bands(audio_data):
+    # Bug: returns incorrect upper bound
